@@ -5,7 +5,7 @@
 </p>
 
 ## ✨Sobre
-** *Nesta detalhada mensagem irá ser informado sobre tais artigos e cumprimentos a serem exercidos pelos usuários, impondo ordem, organização e respeito mútuo.* **
+<b><i>Nesta detalhada mensagem irá ser informado sobre tais artigos e cumprimentos a serem exercidos pelos usuários, impondo ordem, organização e respeito mútuo.</i></b>
 
 Para melhor organização do nosso **DISCORD**, foi desenvolvido um sistema de apresentações em que poderá nos contar mais sobre você, suas linguagens e mais alguns detalhes. Apenas a partir do uso do comando !apresentar você terá acesso aos demais chats disponíveis em nosso **DISCORD**.
 
